@@ -1,0 +1,20 @@
+{
+  "staff_chat_id": -1001234567890,
+  "texts": {
+    "greeting": "Hello! Write your question here and our team will answer in this chat. /status shows your request, /close closes it.",
+    "received": "Thank you, your request #{id} is received. We will reply here.",
+    "status_open": "Your request #{id} is open. Just write here to add details.",
+    "status_none": "You have no open requests. Write your question to open one.",
+    "closed_by_you": "Request #{id} is closed. Write again any time.",
+    "from_staff": "Support: {text}",
+    "staff_help": "Reply to a ticket message to answer the customer. Commands: /open, /ticket N, /reply N text, /close N, /reopen N.",
+    "no_open": "No open tickets.",
+    "bad_ticket": "Ticket not found. Use a number from /open.",
+    "staff_closed": "Ticket #{id} closed.",
+    "staff_reopened": "Ticket #{id} reopened.",
+    "reply_hint": "To answer a customer, reply to the ticket message or use /reply N text.",
+    "ticket_closed": "Ticket #{id} is closed. Use /reopen {id} first.",
+    "not_delivered": "Could not deliver to ticket #{id} (the customer may have blocked the bot).",
+    "delivered": "Sent to ticket #{id}."
+  }
+}
